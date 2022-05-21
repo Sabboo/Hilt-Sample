@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HiltSample</string>
+    <string name="retry">Retry</string>
+</resources>
